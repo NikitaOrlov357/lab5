@@ -1,4 +1,4 @@
-//Copyright by C-developers1488
+//Copyright by NIK
 
 
 #ifndef INCLUDE_STACK_HPP_

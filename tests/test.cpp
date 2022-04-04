@@ -1,4 +1,4 @@
-//Copyright by C-developers1488
+//Copyright by NIK
 
 #include <gtest/gtest.h>
 #include "Stack.hpp"
